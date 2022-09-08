@@ -15,5 +15,6 @@ Essas ações sao convertidas em serviços.
 - Arquiva
 
 <p align="center">
-  <img src="./assets/preview.png" width="100%" />
+  <img src="./assets/preview.png" width="70%" />
+  <img src="./assets/ordem-de-serviço.drawio.png" width="70%" />
 </p>
